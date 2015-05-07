@@ -97,7 +97,7 @@ Feel free to implement any of the missing ones! Or if you have one of the untest
 | HR4000      |  Iu |  Iu |  X  |  N  |  Iu |  N  |  X  |  N  |  X  |  Iu |  X  |
 | USB650      |  Iu |  Iu |  ?  |  ?  |  Iu |  ?  |  ?  |  ?  |  ?  |  Iu |  ?  |
 | HR2000PLUS  |  Iu |  Iu |  X  |  N  |  Iu |  N  |  X  |  N  |  X  |  Iu |  X  |
-| QE65000     |  Iu |  Iu |  X  |  N  |  Iu |  N  |  Iu |  N  |  X  |  Iu |  X  |
+| QE65000     |  It |  It |  X  |  N  |  Iu |  N  |  It |  N  |  X  |  It |  X  |
 | USB2000PLUS |  It |  It |  X  |  N  |  It |  N  |  X  |  N  |  X  |  It |  X  |
 | USB4000     |  Iu |  Iu |  X  |  N  |  Iu |  N  |  X  |  N  |  X  |  Iu |  X  |
 | NIRQUEST512 |  Iu |  Iu |  X  |  N  |  Iu |  N  |  Iu |  N  |  X  |  Iu |  X  |
